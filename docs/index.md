@@ -1,11 +1,12 @@
 R Pranav Ajay
 ============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+-------------------
+1 MyAddress
+MyTown 1000
+MyCountry
+
+-------------------
 
 Education
 ---------
