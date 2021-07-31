@@ -59,6 +59,9 @@ Open Source
     (with [link](http://nodejs.org)) which was actually totally
     your idea...
 
+
+    Palladium OS
+
 Programming Languages
 :   **first-lang:** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
