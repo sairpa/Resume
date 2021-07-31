@@ -71,12 +71,11 @@ Programming Languages
 :   **second-lang:** Description of your experience with second-lang,
     perhaps again including a [link] [ref], this time placing the url
     reference elsewhere in the document to reduce clutter (see source
-    file). 
-
+    file).
 :   **obscure-but-impressive-lang:** We both know this one's pushing
     it.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   Basic knowledge of **C**, **C++**, **Kotlin**, **Java**, **Python**
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
