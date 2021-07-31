@@ -11,11 +11,10 @@ Crawford, Trichy - 620014
 Education
 ---------
 
-2010-2014 
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2016-2018 
+:   **Class XII**; Maharishi Residential International School 
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    Board: CBSE Mark: 455/500 - 91%
 
 2007-2010
 :   **BSc, Computer Science and Electrical Engineering**; University of
