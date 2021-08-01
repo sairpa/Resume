@@ -1,26 +1,23 @@
-name: Docs to PDF
-# This workflow is triggered on pushes to the repository.
+name: Readme.md to [Dokumentation].PDF 
 on:
+
   push:
-    branches:
+    branches: 
       - master
-    # Paths can be used to only trigger actions when you have edited certain files, such as a file within the /docs directory
     paths:
-      - 'docs/**.md'
-      - 'docs/images/**'
+      - 'resume.md'
 
 jobs:
-  converttopdf:
-    name: Build PDF
+  checkoutConvertMdToPdfPush:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
-          input_dir: './docs'
-          output_dir: './docs'
+          input_dir: /
+          output_dir: /
           build_html: true
-      - uses: actions/upload-artifact@v1
+      - run: mv resume.pdf "[Dokumentation] $(echo "$GITHUB_REPOSITORY" | awk -F / '{print $2}' | tr "_" " ").pdf"
+      - uses: EndBug/add-and-commit@v7.1.1
         with:
-          name: resume
-          path: docs
+          message: 'generated from resume.md'
