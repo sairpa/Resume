@@ -11,17 +11,17 @@ Crawford, Trichy - 620014
 Education
 ---------
 
-2016-2018
-:   **Class XII** 
+2017-2018
+:   **Class XII**
 
     Board: CBSE Mark: 455/500 - 91%
-    School: Maharishi Interenational Residential School
+    School: Maharishi International Residential School
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2015-2016
+:   **Class X**
 
-    *Minor: Awesomeology*
+    Board: CBSE Mark: 10/10 CGPA - 100%
+    School: Maharishi International Residential School
 
 Experience
 ----------
