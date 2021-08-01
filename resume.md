@@ -1,6 +1,7 @@
+<img src="./images/me.jpg" width=175 align="right">
+
 R Pranav Ajay
 ============
-<img src="./images/me.jpg" width=175 align="right">
 
 ### Objective:
   An enthusiastic and dedicated freshman, looking to enter the world of

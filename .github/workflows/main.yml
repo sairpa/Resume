@@ -6,6 +6,7 @@ on:
       - master
     paths:
       - 'resume.md'
+      - 'images/me.jpg'
 
 jobs:
   checkoutConvertMdToPdfPush:
@@ -15,6 +16,8 @@ jobs:
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: /
+          images_dir: /images/
+          images_import: ./images
           output_dir: /
           build_html: false
       - run: mv resume.pdf "$(echo "$GITHUB_REPOSITORY" | awk -F / '{print $2}' | tr "_" " ").pdf"
