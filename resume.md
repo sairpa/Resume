@@ -14,9 +14,6 @@ R Pranav Ajay
   GitHub ID: [sairpa](https://github.com/sairpa)\
   Blog: [Blogger](https://rpatechie.blogspot.com/)\
   Date of Birth: 26/09/2000\
-  Languages: Tamizh, English
-
-
 ### Education
 | Year | Name | Details |
 | --- | --- | --- |
