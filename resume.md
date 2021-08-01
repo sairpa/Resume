@@ -12,7 +12,9 @@ R Pranav Ajay
   Email: pranav.ajay2000@gmail.com\
   Phone: +919025108439\
   GitHub ID: [sairpa](https://github.com/sairpa)\
-  Blog: [Blogger](https://rpatechie.blogspot.com/)
+  Blog: [Blogger](https://rpatechie.blogspot.com/)\
+  Date of Birth: 26/09/2000\
+  Languages: Tamizh, English
 
 
 ### Education
@@ -57,4 +59,3 @@ R Pranav Ajay
 * Digital Art and Illustration
 * Long Distance Runner
 * Watching and Playing Football
-
