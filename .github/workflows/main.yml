@@ -15,7 +15,7 @@ jobs:
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: /
-          images_dir: images
+          images_dir: /images
           images_import: ./images
           output_dir: /
           build_html: false

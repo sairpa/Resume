@@ -1,5 +1,5 @@
 <img src="./images/me.jpg" width=175 align="right">
-
+![Please work man!](images/me.jpg)
 R Pranav Ajay
 ============
 ### Objective:
@@ -12,7 +12,7 @@ R Pranav Ajay
   Phone: +919025108439\
   GitHub ID: [sairpa](https://github.com/sairpa)\
   Blog: [Blogger](https://rpatechie.blogspot.com/)\
-  Date of Birth: 26/09/2000\
+  Date of Birth: 26/09/2000
 ### Education
 | Year | Name | Details |
 | --- | --- | --- |
