@@ -16,7 +16,7 @@ R Pranav Ajay
 ### Education
 | Year | Name | Details |
 | --- | --- | --- |
-| 2018-2022 | Amrita School of Enginnering | Currently Undergoing<br>Btech on Computer Science and Engineering<br>CGPA - 8.05/10 (Until Semester-6) |
+| 2018-2022 | Amrita School of Enginnering | (Undergoing)<br>BTech Computer Science and Engineering<br>CGPA - 8.05/10 (Until Semester-6) |
 | 2017-2018 | Maharishi International Resisdential School | Board: CBSE <br> Marks: 455/500 ~ 91% |
 | 2015-2016 | Maharishi International Resisdential School | Board: CBSE <br> CGPA - 10/10 ~ 100% |
 ### Achievements
@@ -28,8 +28,8 @@ R Pranav Ajay
 ### Projects:
 | Role/Name | Details |
 | --- | --- |
-| UI/UX Developer<br> Palladium OS<br> (On-going) | Worked as part of the Core Team in formulating and designing<br> UI and UX at Team Palladium<br> [Project Link](https://www.palladiumos.com/) |
-| Content Creator<br> Palladium OS<br> (On-going) | Worked on the Social Media Content Creation and distribution for<br> promotional activities at Team Palladium <br>[Project Link](https://www.youtube.com/channel/UC4pyGxm1WRMGl_wd8rzdnug)|
+| UI/UX Developer<br> Palladium OS<br> (On-going) | Part of the Core Team in formulating and designing<br> UI and UX at Team Palladium<br> [Project Link](https://www.palladiumos.com/) |
+| Content Creator<br> Palladium OS<br> (On-going) | Part of the Social Media Content Creation and distribution for<br> promotional activities at Team Palladium <br>[Project Link](https://www.youtube.com/channel/UC4pyGxm1WRMGl_wd8rzdnug)|
 | ToonLytV2 | An Android App with Pastiche creation abilities based on Google's project on Neural Style Transfer<br>[Project Link](https://github.com/sairpa/ToonLytV2)|
 | Kreative Rum | A collection of my digital art, 3D rendered models<br>[Project Link](https://github.com/sairpa/kreative_rum)|
 | Boredom Reliever | Collection of Games and Utilities that are multiplatform compatible and is powered by Java<br>[Project Link](https://github.com/Somnath1708/Boredom-Reliever)|
