@@ -35,7 +35,7 @@ R Pranav Ajay
 | Boredom Reliever | Collection of Games and Utilities that are multiplatform compatible and is powered by Java<br>[Project Link](https://github.com/Somnath1708/Boredom-Reliever)|
 
 ### Technical Skills:
-* Programming Languages: C++, C, Python, Kotlin, Java, C# 
+* Programming Languages: C++, C, Python, Kotlin, Java
 * Operating System: Windows,  Linux Distributions ( Debian & Arch based)
 * Frameworks: Android SDK, OpenCV, Tensorflow, Unity  
 
