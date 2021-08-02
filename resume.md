@@ -1,5 +1,4 @@
 <img src="./images/me.jpg" width=175 align="right">
-![Please work man!](images/me.jpg)
 R Pranav Ajay
 ============
 ### Objective:
