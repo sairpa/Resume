@@ -2,7 +2,6 @@
 
 R Pranav Ajay
 ============
-
 ### Objective:
   An enthusiastic and dedicated freshman, looking to enter the world of
   Software Development, with the motive of helping the organization
@@ -20,8 +19,6 @@ R Pranav Ajay
 | 2018-2022 | Amrita School of Enginnering | Currently Undergoing<br>Btech on Computer Science and Engineering<br>CGPA - 8.05/10 (Until Semester-6) |
 | 2017-2018 | Maharishi International Resisdential School | Board: CBSE <br> Marks: 455/500 ~ 91% |
 | 2015-2016 | Maharishi International Resisdential School | Board: CBSE <br> CGPA - 10/10 ~ 100% |
-
-
 ### Achievements
   * Microsoft Learn Student Ambassador
   * Active Member of NSS (National Service Scheme)
@@ -56,3 +53,5 @@ R Pranav Ajay
 * Digital Art and Illustration
 * Long Distance Runner
 * Watching and Playing Football
+
+-----------------
