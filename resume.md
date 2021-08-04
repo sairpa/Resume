@@ -42,7 +42,7 @@ R Pranav Ajay
 ### Technical Interests:
 * Operating Systems
 * Computational Photography
-* Game Development
+* Content Creation
 
 ### Experience:
 | Designation | Organisation | Duration | Details |
