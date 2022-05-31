@@ -9,22 +9,21 @@ R Pranav Ajay
 
 ### Communication:
   Email: pranav.ajay2000@gmail.com\
-  Phone: +919025108439\
   GitHub ID: [sairpa](https://github.com/sairpa)\
   [Website](https://sairpa.github.io/)\
   Blog: [Blogger](https://rpatechie.blogspot.com/)\
-  Date of Birth: 26/09/2000
+  Blog: [Personal Blog](https://sairpa.github.io/Blog/)\
+  
 ### Education
 | Year | Name | Details |
 | --- | --- | --- |
 | 2018-2022 | Amrita School of Enginnering | (Undergoing)<br>BTech Computer Science and Engineering<br>CGPA - 8.05/10 (Until Semester-6) |
 | 2017-2018 | Maharishi International Resisdential School | Board: CBSE <br> Marks: 455/500 ~ 91% |
 | 2015-2016 | Maharishi International Resisdential School | Board: CBSE <br> CGPA - 10/10 ~ 100% |
+
 ### Achievements
-  * Microsoft Learn Student Ambassador
   * Active Member of NSS (National Service Scheme)
   * Was part of Live-in-Labs Programme
-  * Maintainer of Tech Group in Social Media(Whatsapp & Telegram)
 
 ### Projects:
 | Role/Name | Details |
@@ -44,11 +43,6 @@ R Pranav Ajay
 * Operating Systems
 * Computational Photography
 * Content Creation
-
-### Experience:
-| Designation | Organisation | Duration | Details |
-| --- | --- | --- | --- |
-| Android App Developer <br>| TripUpp HR | August 2020 - September 2020 |Worked on an Educational Android App platform for online education<br> - UI creation and implementation<br> - Live Video Feed implementation<br> - Peer to peer Chat System<br> |
 
 ### Extracuricular Activities:
 * Digital Art and Illustration
